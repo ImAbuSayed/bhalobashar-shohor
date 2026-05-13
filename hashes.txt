@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhalobashar Shohor
+
+This log tracks the cryptographic history and versioning for the song **Bhalobashar Shohor** (bhalobashar-shohor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T06:04:41.881699 | `v1` | `b08e74453ba5df80288fc9212ddbd71cfd8ccae3f7e2e6a8a5bc8cf717444562` | `dbbe55f1b93427493252f9c56f2f0a2152e7943fca12d1e6d8fb764a1e90bf03` | `2026-05-13_bhalobashar-shohor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
